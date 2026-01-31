@@ -1,0 +1,33 @@
+{
+  "repo_name": "Vellum Official",
+  "maintainer": "0xAu",
+  "url": "https://aurelian-th.github.io/vellum-repo/repo.json",
+  "packages": [
+    {
+      "id": "com.0xAu.syncbook",
+      "name": "SyncBook",
+      "version": "0.1.0-alpha",
+      "genre": "Utility",
+      "icon": "https://aurelian-th.github.io/vellum-repo/icons/syncbook.png",
+      "download": "https://aurelian-th.github.io/vellum-repo/apps/SyncBook.zip",
+      "description": "Sync client for Google Drive and other cloud services. Built by 0xAu.",
+      "compatibility": {
+        "firmware": "6.0+",
+        "model": "all"
+      }
+    },
+    {
+      "id": "com.0xAu.vellum",
+      "name": "Vellum",
+      "version": "0.1.0-alpha",
+      "genre": "Utility",
+      "icon": "https://aurelian-th.github.io/vellum-repo/icons/vellum.png",
+      "download": "https://aurelian-th.github.io/vellum-repo/apps/Vellum.zip",
+      "description": "The official Vellum package manager. Built by 0xAu.",
+      "compatibility": {
+        "firmware": "6.0+",
+        "model": "all"
+      }
+    }
+  ]
+}
